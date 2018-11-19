@@ -3,7 +3,7 @@ This repository contains my custom made Maven Custom Archetypes.<br>
 <hr>
 <h2>Features</h2>
 <ol>
-  <li>Java Web Application with Servlet 3.1 and Java 10</li>
+  <li>Java Application with Java 10</li>
   <li>To Be Continued......</li>
 </ol>
 <hr>
