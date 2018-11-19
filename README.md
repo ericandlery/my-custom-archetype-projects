@@ -7,6 +7,9 @@ This repository contains my custom made Maven Custom Archetypes.<br>
   <li>To Be Continued......</li>
 </ol>
 <hr>
+<h2>Screenshots</h2>
+<img src="/java10_V1/demo/resources/images/java10.PNG"/>
+<hr>
 <h2>Installation</h2>
 <ol>
   <li>Download the source codes.</li>
